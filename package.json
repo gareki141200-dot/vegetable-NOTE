@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://gareki141200-dot.github.io/experience-os",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
